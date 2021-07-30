@@ -1,0 +1,13 @@
+.hello {
+    color: red;
+    background: url('./pic.svg');
+  }
+button{
+  margin-bottom: 20px;
+}
+h1{
+  align-content: center;
+  vertical-align: middle;
+
+  
+}
